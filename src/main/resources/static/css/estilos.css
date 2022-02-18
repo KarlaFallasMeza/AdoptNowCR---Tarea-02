@@ -1,0 +1,95 @@
+/*test*/
+#encabezado{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 8%;
+    width: 100%;
+    background-color: #0EBDD1;
+    color: white;
+
+}
+#encabezado h1{
+    display: inline
+}
+
+#menu{
+    position: absolute;
+    top: 8%;
+    left: 0;
+    height: 4%;
+    width: 100%;
+    background-color: #77E1E1;
+    color: white;
+
+}
+menu a:hover{
+    background-color: fuchsia;
+    color: black;
+}
+
+#barralateral{
+    position: absolute;
+    top: 12%;
+    left: 0;
+    height: 85%;
+    width: 20%;
+    background-color: #ACF4FC;
+    color: black;
+}
+
+#contenido{
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    height: 81%;
+    width: 80%;
+    background-color: #C5CBF6;
+    padding: 10px;
+    overflow: auto
+}
+
+#pie{
+    position: absolute;
+    bottom:0;
+    left: 0;
+    height: 4%;
+    width: 100%;
+    background-color: #B9DED8;
+    padding: 10px;
+    overflow: auto
+}
+
+#contenido1{
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    height: 81%;
+    width: 80%;
+    background-color: #C5CBF6;
+    padding: 10px;
+    overflow: auto
+}
+
+#barralateral1{
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    height: 90%;
+    width: 20%;
+    background-color: #ACF4FC;
+    color: black;
+    overflow: auto
+}
+
+#contenido2{
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    height: 81%;
+    width: 80%;
+    background-color: #C5CBF6;
+    padding: 10px;
+    overflow: auto
+        
+}
